@@ -1,11 +1,11 @@
 # EDA-Layoffs_2024
 This project focuses on performing Exploratory Data Analysis (EDA) using SQL on a dataset related to company layoffs. The analysis aims to extract insights, identify trends, and summarize key metrics, such as the distribution of layoffs across different companies and years. 
 
-Key Highlights:
-Summarized total layoffs by year and company.
-Performed rolling total calculations to observe cumulative layoffs over time.
-Identified top 5 companies with the highest layoffs per year using DENSE_RANK().
-Analyzed layoff trends over multiple years to detect patterns and spikes.
+** Key Highlights:** 
+- Summarized total layoffs by year and company.
+- Performed rolling total calculations to observe cumulative layoffs over time.
+- Identified top 5 companies with the highest layoffs per year using DENSE_RANK().
+- Analyzed layoff trends over multiple years to detect patterns and spikes.
 
 
 Techniques Used:
