@@ -8,23 +8,22 @@ This project focuses on performing Exploratory Data Analysis (EDA) using SQL on 
 - Analyzed layoff trends over multiple years to detect patterns and spikes.
 
 
-Techniques Used:
-Aggregation using GROUP BY and SUM()
-Window functions (SUM() and DENSE_RANK()) for rolling totals and ranking
-Common Table Expressions (CTEs) for step-by-step data processing
-Filtering and ordering for relevant insights
+# **Techniques Used** :
+- Aggregation using GROUP BY and SUM()
+- Window functions (SUM() and DENSE_RANK()) for rolling totals and ranking
+- Common Table Expressions (CTEs) for step-by-step data processing
+- Filtering and ordering for relevant insights
 
 
-SQL Concepts Covered:
-Aggregations
-Window Functions (Ranking & Rolling Totals)
-Subqueries and CTEs
-Data Grouping & Filtering
+# **SQL Concepts Covered** :
+- Aggregations
+- Window Functions (Ranking & Rolling Totals)
+- Subqueries and CTEs
+- Data Grouping & Filtering
 
 
-Dataset:
-The dataset consists of company layoff records with information such as:
-
-Company name
-Year of layoff
-Number of employees laid off
+# **Dataset** :
+**The dataset consists of company layoff records with information such as** :
+- Company name
+- Year of layoff
+- Number of employees laid off
